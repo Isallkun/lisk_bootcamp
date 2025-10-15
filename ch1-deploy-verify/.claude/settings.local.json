@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx hardhat run:*)",
+      "Bash(npx hardhat deploy:*)",
+      "Bash(yarn chain:*)",
+      "Bash(node:*)",
+      "Bash(npx ethers:*)",
+      "Bash(yarn hardhat console:*)",
+      "Bash(curl:*)",
+      "WebFetch(domain:sepolia-blockscout.lisk.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
