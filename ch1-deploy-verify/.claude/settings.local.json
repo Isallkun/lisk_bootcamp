@@ -8,7 +8,10 @@
       "Bash(npx ethers:*)",
       "Bash(yarn hardhat console:*)",
       "Bash(curl:*)",
-      "WebFetch(domain:sepolia-blockscout.lisk.com)"
+      "WebFetch(domain:sepolia-blockscout.lisk.com)",
+      "Bash(vercel)",
+      "Bash(npm i:*)",
+      "Bash(vercel:*)"
     ],
     "deny": [],
     "ask": []
